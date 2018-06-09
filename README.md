@@ -188,6 +188,8 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 
 ### Machine Learning Engineer Nanodegree
 
+[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-MachineLearningNanodegree.pdf)
+
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
 
@@ -224,7 +226,9 @@ show students how to transform ideas into market-ready products.
 
 ---
 
-### Android Basics Nanodegree
+### Android Basics Nanodegree (Updated 2018/6/8)
+
+[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidBasicsNanodegreeProgram.pdf)
 
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
@@ -239,7 +243,9 @@ Android Developer.
 
 ---
 
-### Android Developer Nanodegree
+### Android Developer Nanodegree (Updated 2018/6/8)
+
+[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidDeveloperNanodegree.pdf)
 
 For intermediate Java developers pursuing Android specialization, this program
 teaches the tools, principles, and patterns that underlie all Android
@@ -253,6 +259,8 @@ future.
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+
+#### _Obsolete_
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A) OPTIONAL
 
 ---
@@ -292,7 +300,7 @@ devices and operating systems.
 
 ---
 
-### Business Analyst Nanodegree
+### Business Analyst Nanodegree (Updated 2018/6/8)
 
 As more and more companies incorporate predictive analytics into their data
 strategies, demand for business analysts with these skills is growing rapidly,
@@ -326,7 +334,7 @@ ideal for you. And remember, no programming experience is required!
 
 ---
 
-### Mobile Web Specialist Nanodegree
+### Mobile Web Specialist Nanodegree (Updated 2018/6/8)
 
 We built this Nanodegree program in partnership with Google for students with intermediate front-end web development skills who want to become professional mobile web developers. By the end of this program, you’ll have built a performant mobile web app project to show employers.
 
