@@ -160,17 +160,24 @@ support hundreds of thousands of users.
 
 ### Data Analyst Nanodegree
 
+[Syllabus](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
 data science.
 
 Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
 
-1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-1. [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+1. [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+1. [SQL for Data Analyst](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) Lessons 5-7 Only
+1. [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 1. [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
 1. [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
+1. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+
+#### _Obsolete_
 1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 1. [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
@@ -331,5 +338,10 @@ We built this Nanodegree program in partnership with Google for students with in
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 
+---
+
+### Artificial Intelligence Nanodegree
+
+[Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Artificial+Intelligence+Nanodegree+Syllabus.pdf)
 
 
