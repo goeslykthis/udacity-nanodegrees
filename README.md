@@ -352,4 +352,11 @@ We built this Nanodegree program in partnership with Google for students with in
 
 [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Artificial+Intelligence+Nanodegree+Syllabus.pdf)
 
+---
 
+### Data Scientist Nanodegree
+
+[Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+Syllabus.pdf)
+
+1. [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+1. [Intro to Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
