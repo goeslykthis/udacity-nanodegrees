@@ -226,7 +226,7 @@ future.
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
-1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
+1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A) OPTIONAL
 
 ---
 
@@ -244,7 +244,7 @@ expertise as an iOS Developer.
 1. [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 1. [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
 1. [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
-1. [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
+1. [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009) OPTIONAL
 
 ---
 
@@ -265,7 +265,7 @@ devices and operating systems.
 
 ---
 
-### Predictive Analytics for Business Nanodegree
+### Business Analyst Nanodegree
 
 As more and more companies incorporate predictive analytics into their data
 strategies, demand for business analysts with these skills is growing rapidly,
@@ -276,10 +276,24 @@ You’ll master the most important predictive techniques, work with leading
 tools in the space, and learn to deliver high-value solutions to important
 business problems.
 
+## Why Take It
+
+This Nanodegree program prepares you for a career as a business analyst, and enables you to master a scientific approach to solving
+problems with data. You’ll build fluency in two leading software packages: Alteryx, a tool that enables you to prepare, blend, and
+analyze data quickly; and Tableau, a powerful data visualization tool. You’ll also learn how to use SQL queries to extract and analyze
+data.
+
+Over the course of the program, you’ll learn to create mental models to clearly define business issues, wrangle and visualize data in
+order to clearly communicate insights, and identify and implement a variety of predictive models.
+
+If you are interested in pursuing a career in business analysis, and want to bring immediate value to any company, then this program is
+ideal for you. And remember, no programming experience is required!
+
 1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 1. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
-1. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
+1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 1. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+1. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
 1. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 1. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
-1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
