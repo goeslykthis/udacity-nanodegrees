@@ -276,7 +276,7 @@ You’ll master the most important predictive techniques, work with leading
 tools in the space, and learn to deliver high-value solutions to important
 business problems.
 
-## Why Take It
+#### Why Take It
 
 This Nanodegree program prepares you for a career as a business analyst, and enables you to master a scientific approach to solving
 problems with data. You’ll build fluency in two leading software packages: Alteryx, a tool that enables you to prepare, blend, and
