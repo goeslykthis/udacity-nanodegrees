@@ -64,6 +64,8 @@ from very kind people who found the project useful and asked for them.
 
 ### Front-End Web Developer Nanodegree
 
+[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-FrontEndDeveloperNanodegree.pdf)
+
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
 performance.
@@ -74,16 +76,34 @@ JavaScript.
 
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+1. [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
-1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
-1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+1. [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+1. [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+1. [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+1. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+1. [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+1. [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
+1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+1. [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864) PROJECT
+
+#### Obsolete
+
+These courses are not listed in the syllabus
+1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 1. [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
-1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+
+
 
 ---
 
