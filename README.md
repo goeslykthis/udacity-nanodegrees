@@ -35,15 +35,6 @@ I am aware that some of the listed Nanodegrees offer a different/newer syllabus 
 their paid students. I'm still deciding how I want to handle that here. If you've
 had a PR closed because of this, I will contact you directly.
 
-#### Are you really taking donations? You're barely even updating this anymore!?!
-
-Yeah, yeah. I hear ya. When I first created this project there were no links
-to donate. They were only added after receiving a surprising amount of requests
-from very kind people who found the project useful and asked for them.
-
-* Bitcoin Wallet Address: 1375JTEBo1AFEsK2HUh17jth3KqPgJPSxC
-* PayPal/Credit/Debit: [https://www.paypal.me/mikesprague](https://www.paypal.me/mikesprague)
-
 ---
 
 ## Table of Contents
