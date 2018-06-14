@@ -62,9 +62,10 @@ from very kind people who found the project useful and asked for them.
 
 ---
 
-### Front-End Web Developer Nanodegree
+### Front-End Web Developer Nanodegree (Updated 2018/06/08)
 
 [Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-FrontEndDeveloperNanodegree.pdf)
+[Syllabus (Updated?)](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189d8e_fend-syllabus-9.0.0/fend-syllabus-9.0.0.pdf)
 
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
@@ -77,14 +78,10 @@ JavaScript.
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
-1. [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
-1. [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
-1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 1. [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+1. [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
@@ -92,18 +89,24 @@ JavaScript.
 1. [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 1. [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-1. [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864) PROJECT
+1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
+1. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+1. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 
-#### Obsolete
+#### _Obsolete_
 
 These courses are not listed in the syllabus
-1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 1. [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
-
-
+1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+1. [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+1. [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864) PROJECT
 
 ---
 
@@ -128,7 +131,9 @@ Developer role.
 
 ---
 
-### Full Stack Web Developer Nanodegree
+### Full Stack Web Developer Nanodegree (Updated 2018/06/13)
+
+[Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189e97_fsnd-syllabus-5.0.0/fsnd-syllabus-5.0.0.pdf)
 
 This program will prepare you for a job as a Full Stack Web Developer, and teach
 you to build complex server-side web applications that use powerful relational
@@ -137,24 +142,30 @@ databases to persistently store data.
 You’ll learn to build applications that can support any front-end, and scale to
 support hundreds of thousands of users.
 
+1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+1. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+1. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+1. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+1. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+
+
+#### _Obsolete_
 1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 1. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
-1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-1. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
-1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 1. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-1. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-1. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-1. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+
+
 
 ---
 
@@ -336,6 +347,8 @@ ideal for you. And remember, no programming experience is required!
 
 ### Mobile Web Specialist Nanodegree (Updated 2018/6/8)
 
+[Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189f1e_mwsnd-syllabus-2.0.0/mwsnd-syllabus-2.0.0.pdf)
+
 We built this Nanodegree program in partnership with Google for students with intermediate front-end web development skills who want to become professional mobile web developers. By the end of this program, you’ll have built a performant mobile web app project to show employers.
 
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
@@ -345,6 +358,8 @@ We built this Nanodegree program in partnership with Google for students with in
 1. [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+1. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
 ---
 
