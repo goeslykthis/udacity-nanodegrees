@@ -62,7 +62,7 @@ from very kind people who found the project useful and asked for them.
 
 ---
 
-### Front-End Web Developer Nanodegree (Updated 2018/06/13)
+### [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) (Updated 2018/06/13)
 
 [Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-FrontEndDeveloperNanodegree.pdf)
 
@@ -132,7 +132,7 @@ Developer role.
 
 ---
 
-### Full Stack Web Developer Nanodegree (Updated 2018/06/13)
+### [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) (Updated 2018/06/13)
 
 [Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189e97_fsnd-syllabus-5.0.0/fsnd-syllabus-5.0.0.pdf)
 
@@ -170,9 +170,9 @@ support hundreds of thousands of users.
 
 ---
 
-### Data Analyst Nanodegree
+### [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) (Updated 2018/06/13)
 
-[Syllabus](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+[Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Analyst+Nanodegree+program+-+Syllabus.pdf)
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
@@ -259,19 +259,16 @@ Android Developer.
 
 ---
 
-### Android Developer Nanodegree (Updated 2018/6/8)
+### [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) (Updated 2018/6/13)
 
-[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidDeveloperNanodegree.pdf)
+[Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidDeveloperNanodegree.pdf)
 
-For intermediate Java developers pursuing Android specialization, this program
-teaches the tools, principles, and patterns that underlie all Android
-development.
+[Syllabus - Updated](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
 
-The skills you learn in this Nanodegree program will help you master the
-existing platform, and prepare you for the exciting opportunities in Android's
-future.
+We built this Nanodegree program in partnership with Google specifically to support aspiring Android Developers. The curriculum is designed to transform those with intermediate skills and a working knowledge of Java development best practices into specialists with the Android platform. Successful completion of the program means a diverse portfolio of projects to show employers, an established credential to affirm your achievements, and your own app on the Google Play Store. If your goal is employment as an Android Developer, this program is exactly what you need to succeed.
 
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+1. [Developing Android Apps Alternative](https://www.udacity.com/course/developing-android-apps--ud853ar)
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
@@ -281,7 +278,9 @@ future.
 
 ---
 
-### iOS Developer Nanodegree
+### [iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+
+Syllabus to be added...
 
 Being an iOS Developer is a remarkable occupation, and we’ve designed this
 Nanodegree program to teach you the skills required to launch your career.
@@ -316,7 +315,9 @@ devices and operating systems.
 
 ---
 
-### Business Analyst Nanodegree (Updated 2018/6/8)
+### [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008) (Updated 2018/6/13)
+
+[Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1aec85_band-syllabus-v5-1/band-syllabus-v5-1.pdf)
 
 As more and more companies incorporate predictive analytics into their data
 strategies, demand for business analysts with these skills is growing rapidly,
@@ -342,15 +343,15 @@ ideal for you. And remember, no programming experience is required!
 
 1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 1. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
-1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
-1. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 1. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
 1. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 1. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+1. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 
 ---
 
-### Mobile Web Specialist Nanodegree (Updated 2018/6/8)
+### [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024) (Updated 2018/6/8)
 
 [Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189f1e_mwsnd-syllabus-2.0.0/mwsnd-syllabus-2.0.0.pdf)
 
@@ -380,3 +381,13 @@ We built this Nanodegree program in partnership with Google for students with in
 
 1. [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 1. [Intro to Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
+---
+
+### [Intro to Programming](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000)
+
+[Syllabus](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b196ac0_ipnd-syllabus-6.0/ipnd-syllabus-6.0.pdf)
+
+Learn the basics of programming through HTML, CSS, and Python. Explore possible programming paths with our final project selection. Get confident in your ability to think and problem-solve like a programmer. Be primed and ready for our career-ready programs after mastering these projects.
+
+
