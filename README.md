@@ -62,10 +62,11 @@ from very kind people who found the project useful and asked for them.
 
 ---
 
-### Front-End Web Developer Nanodegree (Updated 2018/06/08)
+### Front-End Web Developer Nanodegree (Updated 2018/06/13)
 
-[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-FrontEndDeveloperNanodegree.pdf)
-[Syllabus (Updated?)](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189d8e_fend-syllabus-9.0.0/fend-syllabus-9.0.0.pdf)
+[Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-FrontEndDeveloperNanodegree.pdf)
+
+[Syllabus - Updated](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189d8e_fend-syllabus-9.0.0/fend-syllabus-9.0.0.pdf)
 
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
@@ -237,9 +238,11 @@ show students how to transform ideas into market-ready products.
 
 ---
 
-### Android Basics Nanodegree (Updated 2018/6/8)
+### [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) (Updated 2018/6/13)
 
-[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidBasicsNanodegreeProgram.pdf)
+[Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidBasicsNanodegreeProgram.pdf)
+
+[Syllabus - Updated](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1afeda_abnd-syllabus-term/abnd-syllabus-term.pdf)
 
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
@@ -248,6 +251,8 @@ Android Developer.
 
 1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+1. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+1. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
 1. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
