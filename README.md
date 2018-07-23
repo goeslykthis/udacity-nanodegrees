@@ -194,7 +194,9 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 
 ### Machine Learning Engineer Nanodegree
 
-[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-MachineLearningNanodegree.pdf)
+[Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-MachineLearningNanodegree.pdf)
+
+[Syllabus](https://s3.amazonaws.com/iridium-content/documents/en-US/MLND+2-Term+Syllabus.pdf)
 
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
@@ -363,9 +365,13 @@ We built this Nanodegree program in partnership with Google for students with in
 
 ---
 
-### Artificial Intelligence Nanodegree
+### [Artificial Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
 
 [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Artificial+Intelligence+Nanodegree+Syllabus.pdf)
+
+The Artificial Intelligence Nanodegree program features expert instructors, and world-class curriculum built in collaboration with top companies in the field. The program offers a broad introduction to the field of artificial intelligence, and can help you maximize your potential as an artificial intelligence or machine learning engineer. If you’re ready for an efficient and effective immersion in the world of AI, with the goal of pursuing new opportunities in the field, this is an excellent program for you.
+
+
 
 ---
 
@@ -390,3 +396,17 @@ Learn the basics of programming through HTML, CSS, and Python. Explore possible 
 1. [Intro to Javascript](https://www.udacity.com/course/intro-to-data-science--ud359)
 1. [ES6 - Javascript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 1. [Javascript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+
+---
+
+### [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017)
+
+[Syllabus](https://s3.amazonaws.com/jakku-content/syllabus/VR-Developer-Nanodegree-Syllabus.pdf)
+
+1. [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
+1. [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
+1. [VR Software Development](https://www.udacity.com/course/vr-software-development--ud1014)
+1. [VR Design](https://eg.udacity.com/course/vr-design--ud1016)
+1. [VR Platforms and Applications](https://eg.udacity.com/course/vr-platforms-applications--ud1015_
+
+Specializations to be added..
