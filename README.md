@@ -384,4 +384,9 @@ We built this Nanodegree program in partnership with Google for students with in
 
 Learn the basics of programming through HTML, CSS, and Python. Explore possible programming paths with our final project selection. Get confident in your ability to think and problem-solve like a programmer. Be primed and ready for our career-ready programs after mastering these projects.
 
-
+1. [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+1. [Alternative - Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+1. [Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [Intro to Javascript](https://www.udacity.com/course/intro-to-data-science--ud359)
+1. [ES6 - Javascript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+1. [Javascript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
