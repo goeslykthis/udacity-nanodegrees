@@ -163,7 +163,9 @@ support hundreds of thousands of users.
 
 ### [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) (Updated 2018/06/13)
 
-[Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Analyst+Nanodegree+program+-+Syllabus.pdf)
+[Old Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Analyst+Nanodegree+program+-+Syllabus.pdf)
+
+[Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf)
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
@@ -171,7 +173,7 @@ data science.
 
 Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
 
-1. [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [Anaconda & Python](https://classroom.udacity.com/courses/ud1111)
 1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 1. [SQL for Data Analyst](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) Lessons 5-7 Only
@@ -182,6 +184,7 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 
 #### _Obsolete_
 1. [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+1. [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 1. [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
