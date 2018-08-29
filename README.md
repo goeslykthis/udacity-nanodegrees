@@ -234,11 +234,13 @@ show students how to transform ideas into market-ready products.
 
 ---
 
-### [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) (Updated 2018/6/13)
+### [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) (Updated 2018/8/29)
 
 [Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidBasicsNanodegreeProgram.pdf)
 
-[Syllabus - Updated](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1afeda_abnd-syllabus-term/abnd-syllabus-term.pdf)
+[Old Syllabus v2](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1afeda_abnd-syllabus-term/abnd-syllabus-term.pdf)
+
+[Syllabus - Updated](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Android+Basics+Nanodegree+Syllabus.pdf)
 
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
@@ -255,11 +257,13 @@ Android Developer.
 
 ---
 
-### [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) (Updated 2018/6/13)
+### [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) (Updated 2018/8/29)
 
 [Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-AndroidDeveloperNanodegree.pdf)
 
-[Syllabus - Updated](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
+[Old Syllabus v2](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b1f00c0_and-syllabus-terms/and-syllabus-terms.pdf)
+
+[New Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Android+Developer+Nanodegree+Syllabus.pdf)
 
 We built this Nanodegree program in partnership with Google specifically to support aspiring Android Developers. The curriculum is designed to transform those with intermediate skills and a working knowledge of Java development best practices into specialists with the Android platform. Successful completion of the program means a diverse portfolio of projects to show employers, an established credential to affirm your achievements, and your own app on the Google Play Store. If your goal is employment as an Android Developer, this program is exactly what you need to succeed.
 
@@ -274,9 +278,9 @@ We built this Nanodegree program in partnership with Google specifically to supp
 
 ---
 
-### [iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
+### [iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) (Updated 2018/08/29)
 
-Syllabus to be added...
+[Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-iosDeveloperNanodegree.pdf)
 
 Being an iOS Developer is a remarkable occupation, and we’ve designed this
 Nanodegree program to teach you the skills required to launch your career.
@@ -371,11 +375,11 @@ We built this Nanodegree program in partnership with Google for students with in
 
 The Artificial Intelligence Nanodegree program features expert instructors, and world-class curriculum built in collaboration with top companies in the field. The program offers a broad introduction to the field of artificial intelligence, and can help you maximize your potential as an artificial intelligence or machine learning engineer. If you’re ready for an efficient and effective immersion in the world of AI, with the goal of pursuing new opportunities in the field, this is an excellent program for you.
 
-
+Courses to be added...
 
 ---
 
-### Data Scientist Nanodegree
+### [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Data+Scientist+Nanodegree+Syllabus.pdf)
 
@@ -407,6 +411,6 @@ Learn the basics of programming through HTML, CSS, and Python. Explore possible 
 1. [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
 1. [VR Software Development](https://www.udacity.com/course/vr-software-development--ud1014)
 1. [VR Design](https://eg.udacity.com/course/vr-design--ud1016)
-1. [VR Platforms and Applications](https://eg.udacity.com/course/vr-platforms-applications--ud1015_
+1. [VR Platforms and Applications](https://eg.udacity.com/course/vr-platforms-applications--ud1015)
 
 Specializations to be added..
