@@ -192,7 +192,7 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 
 ---
 
-### Machine Learning Engineer Nanodegree
+### [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 [Old Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-MachineLearningNanodegree.pdf)
 
